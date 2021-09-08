@@ -1,0 +1,22 @@
+import React from 'react'
+
+const HomePage = () => (
+    <React.Fragment>
+    <h1>Hello, Welcome to my blog!</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nunc nibh, finibus 
+        ut leo sit amet, venenatis pharetra nisl. Suspendisse egestas sodales maximus. Maecenas tincidunt, 
+        neque vitae ultrices malesuada, eros est ornare purus, sed sodales leo tellus at felis. Aenean a ornare 
+        nunc. Quisque egestas eros ac convallis maximus. 
+    </p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nunc nibh, finibus 
+    ut leo sit amet, venenatis pharetra nisl. Suspendisse egestas sodales maximus. Maecenas tincidunt, 
+    neque vitae ultrices malesuada, eros est ornare purus, sed sodales leo tellus at felis. Aenean a ornare 
+    nunc. Quisque egestas eros ac convallis maximus. 
+    </p>
+
+    </React.Fragment>
+    
+)
+
+
+export default HomePage;
